@@ -1,0 +1,1 @@
+console.log('some2.js');
